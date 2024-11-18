@@ -11,4 +11,5 @@ Learning to create the first institutional Landing Page, using HTML and CSS, whe
 ![professional_challenges](https://github.com/user-attachments/assets/0f933a62-ed2a-4c0e-95de-38434ff53870)
 
 [LICENSE](/LICENSE)
+
 See [original repository](https://github.com/micheleambrosio/trilha-css-desafio-01)
